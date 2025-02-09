@@ -6,4 +6,6 @@ categories: drawings
 ---
 I was bored, so I started drawing on MS Paint with my mouse.
 
-<img src="{{ site.baseurl }}/_assets/images/2025-02-07-doodle-on-ms-paint.png" alt="cheese pizza">
+![cheese pizza](/images/image.png)
+
+[image]: https://github.com/v-chin/v-chin.github.io/blob/gh-pages/_assets/images/2025-02-07-doodle-on-ms-paint.png

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bored"
+date:   2025-02-08 18:32:47 -0500
+categories: drawings
+---
+I was bored, so I started drawing on MS Paint with my mouse.
+
+<img src="{{ site.baseurl }}/_assets/images/2025-02-07-doodle-on-ms-paint.png" alt="cheese pizza">

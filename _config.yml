@@ -22,7 +22,6 @@ title: Victoria's Awesome Website
 email: v-chin@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hey! Welcome to an awesome website!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://v-chin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  v-chin
 
